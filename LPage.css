@@ -1,0 +1,72 @@
+/*------------------Backgroung form color--------------------------*/
+body
+{
+    background-color: aliceblue;
+}
+/*--------------------Heading style Bold-------------------------------*/
+#heading
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+/*----------------------Medical Symbol Image styling--------------------*/
+#image-1
+{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+/*-------------------Div for Text area content--------------------------*/
+.content
+{
+    position: absolute;
+    bottom: 150px;
+    left: 400px;
+}
+/*-------------------first name input--------------------------*/
+#fname
+{
+    position: relative;
+    top: 10px;
+    width: 100px;
+    font-weight: bold;
+}
+/*-------------------last name input--------------------------*/
+#lname
+{
+    position: relative;
+    top: 20px;
+    width: 100px;
+    font-weight: bold;
+}
+/*-------------------Emain input--------------------------*/
+#Email
+{
+    position: relative;
+    top: 30px;
+    width: 100px;
+    font-weight: bold;
+}
+/*-------------------Occupation--------------------------*/
+#occupation
+{
+    position: relative;
+    top: 40px;
+    width: 100px;
+    font-weight: bold;
+}
+/*-------------------Submit Button--------------------------*/
+#submit
+{
+    position: relative;
+    top: 40px;
+    left: 400px;
+    font-weight: bold;
+}
+label
+{
+    margin-right: 30px;
+}
